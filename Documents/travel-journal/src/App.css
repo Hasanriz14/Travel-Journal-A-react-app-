@@ -1,0 +1,40 @@
+.nav--body {
+  background-color: lightcoral;
+  font-family: inter, sans-serif, arial;
+  display: flex;
+  justify-content: center;
+  align-content: space-between;
+  gap: 10px;
+
+  padding: 15px;
+}
+.nav--logo {
+  object-fit: none;
+}
+.nav--heading {
+  word-spacing: -3px;
+  color: white;
+}
+.properimg {
+  max-width: 150px;
+  height: 200;
+  border-radius: 9px;
+}
+.main_body {
+  display: flex;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+.akeentoimg {
+  padding-left: 25px;
+  position: relative;
+}
+.closeToMe {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.getClose {
+  display: inline-block;
+  vertical-align: middle;
+}
